@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="708ae384-1cfc-4981-8645-79bd7dd18d60" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go Application" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="$PROJECT_DIR$/../../../../../../Software/Go" />
+  <component name="ProjectId" id="1koLfAWMEfu0aJWZvUv7KjIR6ok" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go Application" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Go" />
+  </component>
+  <component name="RunManager" selected="Go Build.go build gormdemo.go HttpApi.go">
+    <configuration name="go build HttpApi.go gormdemo.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/L01_httpApi/HttpApi.go" />
+      <package value="D:\wx_temp\web2020-master\golang\src" />
+      <directory value="$PROJECT_DIR$" />
+      <output_directory value="$PROJECT_DIR$/../output" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build HttpApi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/HttpApi.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build gormdemo.go HttpApi.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/gormdemo.go|$PROJECT_DIR$/HttpApi.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build index.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/index.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build test.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="src" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/test.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Build.go build HttpApi.go gormdemo.go" />
+      <item itemvalue="Go Build.go build test.go" />
+      <item itemvalue="Go Build.go build HttpApi.go" />
+      <item itemvalue="Go Build.go build index.go" />
+      <item itemvalue="Go Build.go build gormdemo.go HttpApi.go" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build gormdemo.go HttpApi.go" />
+        <item itemvalue="Go Build.go build HttpApi.go" />
+        <item itemvalue="Go Build.go build index.go" />
+        <item itemvalue="Go Build.go build test.go" />
+        <item itemvalue="Go Build.go build HttpApi.go gormdemo.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="718" y="226" width="484" height="604" key="#Build_Tags_&amp;_Vendoring" timestamp="1606727835570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="226" width="484" height="604" key="#Build_Tags_&amp;_Vendoring/0.0.1920.1040@0.0.1920.1040" timestamp="1606727835570" />
+    <state x="685" y="437" key="#GOROOT" timestamp="1606727229057">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="514" y="361" key="#GOROOT/0.0.1440.860@0.0.1440.860" timestamp="1606367768189" />
+    <state x="685" y="437" key="#GOROOT/0.0.1920.1040@0.0.1920.1040" timestamp="1606727229057" />
+    <state x="176" y="85" width="1086" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606380566666">
+      <screen x="0" y="0" width="1440" height="860" />
+    </state>
+    <state x="176" y="85" width="1086" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.860@0.0.1440.860" timestamp="1606380566666" />
+    <state x="609" y="279" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606801135333">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="457" y="231" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.860@0.0.1440.860" timestamp="1606381560345" />
+    <state x="609" y="279" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1606801135333" />
+    <state x="671" y="225" key="FileChooserDialogImpl" timestamp="1606727227800">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="503" y="186" key="FileChooserDialogImpl/0.0.1440.860@0.0.1440.860" timestamp="1606367810084" />
+    <state x="671" y="225" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1606727227800" />
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom" timestamp="1606825012630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.bottom/0.0.1440.860@0.0.1440.860" timestamp="1606399129071" />
+    <state width="1877" height="268" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1606825012630" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center" timestamp="1606825012621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.center/0.0.1440.860@0.0.1440.860" timestamp="1606399129071" />
+    <state width="1877" height="268" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1606825012621" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left" timestamp="1606825012621">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.left/0.0.1440.860@0.0.1440.860" timestamp="1606399129071" />
+    <state width="1877" height="268" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1606825012621" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right" timestamp="1606825012630">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1398" height="223" key="GridCell.Tab.0.right/0.0.1440.860@0.0.1440.860" timestamp="1606399129071" />
+    <state width="1877" height="268" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1606825012630" />
+    <state x="296" y="91" key="SettingsEditor" timestamp="1606727701498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="222" y="75" key="SettingsEditor/0.0.1440.860@0.0.1440.860" timestamp="1606381046473" />
+    <state x="296" y="91" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1606727701498" />
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606745793729">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1606745793729" />
+  </component>
+</project>
